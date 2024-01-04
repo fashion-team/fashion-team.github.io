@@ -4,6 +4,7 @@ google.com, pub-1801408216613473, DIRECT, f08c47fec0942fa0
 appnexus.com, 7353, RESELLER
 appnexus.com, 2764, RESELLER
 appnexus.com, 10617, RESELLER
+yandex.com, 103842965, DIRECT
 premiumads.net, 20668, DIRECT
 premiumads.com.br, 20668, DIRECT
 google.com, pub-3619045887187031, RESELLER, f08c47fec0942fa0
