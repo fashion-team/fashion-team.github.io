@@ -10,6 +10,7 @@ premiumads.net, 20668, DIRECT
 pangleglobal.com, 61184, DIRECT
 pubmatic.com, 161490, RESELLER, 5d62403b186f2ace
 whildey.com, 5541841875, RESELLER
+google.com, pub-4686405784285870, DIRECT, f08c47fec0942fa0
 adnuro.com, 2882096573, RESELLER
 newsusadigital.com, 1001719521, RESELLER
 balloonlabs.ai, 9173515033, RESELLER
